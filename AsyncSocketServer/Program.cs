@@ -177,4 +177,12 @@ public class AsynchronousSocketListener
         StartListening();
         return 0;
     }
+
+
+    /*
+     
+     {"argument1":5,"argument2":4.5,"oper":"\/"}?
+     {"argument1":5,"argument2":0,"oper":"\/"}?
+     
+     */
 }
