@@ -1,0 +1,7 @@
+c:\.Net\c#\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe.config
+c:\.Net\c#\Socket\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe.config
+c:\.Net\c#\Socket\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe
+c:\.Net\c#\Socket\AsyncSocketServer\bin\Debug\AsyncSocketServer.pdb
+c:\.Net\c#\Socket\AsyncSocketServer\obj\Debug\ResolveAssemblyReference.cache
+c:\.Net\c#\Socket\AsyncSocketServer\obj\Debug\AsyncSocketServer.exe
+c:\.Net\c#\Socket\AsyncSocketServer\obj\Debug\AsyncSocketServer.pdb

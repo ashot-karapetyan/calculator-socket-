@@ -1,0 +1,6 @@
+c:\.Net\c#\Socket\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe.config
+c:\.Net\c#\Socket\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe
+c:\.Net\c#\Socket\AsyncSocketClient\bin\Debug\AsyncSocketClient.pdb
+c:\.Net\c#\Socket\AsyncSocketClient\obj\Debug\ResolveAssemblyReference.cache
+c:\.Net\c#\Socket\AsyncSocketClient\obj\Debug\AsyncSocketClient.exe
+c:\.Net\c#\Socket\AsyncSocketClient\obj\Debug\AsyncSocketClient.pdb
